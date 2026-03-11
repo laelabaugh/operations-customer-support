@@ -134,6 +134,8 @@ What makes this puzzling is that response times barely differ by priority. Criti
 
 The business impact is significant. Critical tickets typically involve service outages, payment failures, or other issues where delay compounds customer frustration. Missing 88% of these SLAs likely contributes to the mediocre satisfaction scores. Even a modest improvement, getting Critical compliance from 12% to 50%, would require cutting average response time to under 4 hours for these tickets specifically.
 
+![SLA Analysis](02_channel_sla_analysis.png)
+
 ### 2. All Channels Perform Similarly Despite Different Cost Structures
 
 A typical assumption would be that real-time channels like Phone and Chat outperform asynchronous channels like Email on speed and satisfaction. This dataset challenges that assumption. All four channels show nearly identical response times (11.9-12.2 hours) and SLA compliance rates (40-44%).
