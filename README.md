@@ -297,13 +297,12 @@ Analysis conducted using SQLite. Key query patterns:
 
 ```
 ├── README.md
-├── sql/
-│   └── analysis_queries.sql
+├── 01_executive_dashboard.png
+├── 02_channel_sla_analysis.png
 ├── data/
 │   └── customer_support_tickets.csv
-├── support_tickets.db
-├── 01_executive_dashboard.png
-└── 02_channel_sla_analysis.png
+└── sql/
+    └── analysis_queries.sql
 ```
 
 ### Data Source
